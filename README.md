@@ -1,12 +1,12 @@
 # README
 
-This Git repository template provides a structured repository for organizing and managing digital assets(images, icons, svgs, fonts, videos, illustrations etc).  It helps track drafts, revisions, and final versions, ensuring smooth collaboration and version control. Use it to keep all your assets organized and accessible throughout the project lifecycle.
+This Git repository template provides a structured repository for organizing and managing digital assets (images, icons, SVGs, fonts, videos, illustrations, etc.). It helps track drafts, revisions, and final versions, ensuring smooth collaboration and version control. 
 
 ## How to Use?
 
-Follow the [Digital assets Guidelines](/docs/digital-assets-guidelines.md "Graphic assets  Guidelines") for detailed instructions on managing the digital assets.
+Follow the [Digital Assets Guidelines](/docs/digital-assets-guidelines.md "Digital Assets Guidelines") for detailed instructions on managing digital assets.
 
-## Issue tracker
+## Issue Tracker
 
 See [Issue Tracker](https://github.com/DigiXess/documents-template/issues "GitHub Issues") for a list of issues and feature requests.
 
