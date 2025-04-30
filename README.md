@@ -8,7 +8,7 @@ Follow the [Digital Assets Guidelines](/docs/digital-assets-guidelines.md "Digit
 
 ## Issue Tracker
 
-See [Issue Tracker](https://github.com/DigiXess/documents-template/issues "GitHub Issues") for a list of issues and feature requests.
+See [Issue Tracker](https://github.com/DigiXess/digital-assets-template/issues "GitHub Issues") for a list of issues and feature requests.
 
 ## Contribution Guidelines
 
