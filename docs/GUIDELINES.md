@@ -5,8 +5,7 @@ This document outlines the guidelines and best practices to ensure consistency, 
 **Table of Contents**
 
 - [Repository Guidelines](#repository-guidelines)
-- [Graphic asset Guidelines](#graphic-asset-guidelines)
-- [Graphic assets structure Guidelines](#graphic-assets-structure-guidelines)
+- [Graphic assets review Guidelines](#graphic-assets-review-guidelines)
 - [Keep Files Updated](#keep-files-updated)
 - [Updating CHANGELOG](#updating-changelog)
 - [Other Guidelines](#other-guidelines)
@@ -15,13 +14,9 @@ This document outlines the guidelines and best practices to ensure consistency, 
 
 Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/blob/4fb6dbd51f42b6930bebed033736b934633320fd/graphic-assets-repo-guidelines.md "Code Repository Guidelines") for detailed instructions on managing the repository.
 
-## Graphic asset Guidelines
+## Graphic assets review Guidelines
 
-
-
-## Graphic assets structure Guidelines
-
-- Include the graphic assets structure guidelines here if applicable.
+- Include the graphic assets review guidelines here if applicable.
 
 ## Keep Files Updated
 

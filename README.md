@@ -1,6 +1,6 @@
 # README
 
-This Git repository template provides a structured repository for organizing and managing digital assets(images, icons, svgs, fonts,videos etc).  It helps track drafts, revisions, and final versions, ensuring smooth collaboration and version control. Use it to keep all your assets organized and accessible throughout the project lifecycle.
+This Git repository template provides a structured repository for organizing and managing digital assets(images, icons, svgs, fonts, videos, illustrations etc).  It helps track drafts, revisions, and final versions, ensuring smooth collaboration and version control. Use it to keep all your assets organized and accessible throughout the project lifecycle.
 
 ## How to Use?
 
