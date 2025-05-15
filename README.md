@@ -2,6 +2,9 @@
 
 This Git repository template provides a structured repository for organizing and managing digital assets (images, icons, SVGs, fonts, videos, illustrations, etc.). It helps track drafts, revisions, and final versions, ensuring smooth collaboration and version control. 
 
+> ✅ **Latest Version: 1.0.1**
+> 
+
 ## How to Use?
 
 Follow the [Digital Assets Guidelines](/docs/digital-assets-guidelines.md "Digital Assets Guidelines") for detailed instructions on managing digital assets.
